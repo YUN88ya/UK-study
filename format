@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study and Life in the UK</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        .button {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Study and Life in the UK</h1>
+    <p>Your guide to applying for higher education and living in the UK</p>
+</header>
+
+<nav>
+    <a href="#application">Application Tips</a>
+    <a href="#life">Life in the UK</a>
+    <a href="#services">Our Services</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+    <section id="application">
+        <h2>Application Tips</h2>
+        <p>[Add tips about applying to UK universities for Master’s and PhD degrees. Include guidance on crafting a personal statement, securing recommendations, and navigating visa requirements.]</p>
+    </section>
+
+    <section id="life">
+        <h2>Life in the UK</h2>
+        <p>[Add practical advice about finding accommodation, cost-effective grocery shopping, and must-try foods. Include insights about cultural nuances and settling into a new environment.]</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>Explore our advanced services to make your UK study journey smoother:</p>
+        <ul>
+            <li>Application review and consulting</li>
+            <li>Housing search assistance</li>
+            <li>Local food and shopping guides</li>
+        </ul>
+        <a href="#" class="button">Shop Now</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>[Include your contact details or a contact form for users to reach out with inquiries.]</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Study and Life in the UK. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
